@@ -1,0 +1,3 @@
+Allan is a PHP-boilerplate/framework for small websites. 
+Allan was built by Emily Elmseld(emily.elmseld@gmail.com) 
+as part of a web programming course and published in November 2013.
